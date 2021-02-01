@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 
 
-[linkedin]: https://www.linkedin.com/in/sabesan96
-[telegram]: https://telegram.me/TheSabesan
-[twitter]: https://twitter.com/TheSabesan
-[facebook]: https://www.facebook.com/sathananthan.sabesan
-[instagram]: https://www.instagram.com/s_sabesan
+[linkedin]: https://www.linkedin.com/in/sanskar-kabra-a3a347178/
+[telegram]: https://telegram.me/spk1306
+[twitter]: https://twitter.com/sans13_k
+[facebook]: https://www.facebook.com/sanskar.kabra.3/
+[instagram]: https://www.instagram.com/sanskar_kabra13
