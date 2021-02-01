@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar1306)](https://github.com/sanskar1306/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=CineCup)](https://github.com/sanskar1306/CineCup)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar1306&layout=compact)](https://github.com/sanskar1306)
