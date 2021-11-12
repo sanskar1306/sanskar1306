@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=CineCup)](https://github.com/sanskar1306/CineCup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=catalog)](https://github.com/sanskar1306/catalog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=mausam)](https://github.com/sanskar130/mausam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=ConFusion-app)](https://github.com/sanskar1306/ConFusion-app)
+
+
+
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 
