@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 [![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar1306)](https://github.com/sanskar1306/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar1306&layout=compact)](https://github.com/sanskar1306)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=CineCup)](https://github.com/sanskar1306/CineCup)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=catalog)](https://github.com/sanskar1306/catalog)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=mausam)](https://github.com/sanskar1306/mausam)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=ConFusion-app)](https://github.com/sanskar1306/ConFusion-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=catalog)](https://github.com/sanskar1306/Cinecup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=mausam)](https://github.com/sanskar1306/CineCup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=ConFusion-app)](https://github.com/sanskar1306/CineCup)
 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
