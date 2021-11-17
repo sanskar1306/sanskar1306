@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar1306)](https://github.com/sanskar1306/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskar1306&layout=compact)](https://github.com/sanskar1306)
+
 
 
 
