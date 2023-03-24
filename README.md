@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=CineCup)](https://github.com/sanskar1306/CineCup)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=yumSeek-backend)](https://github.com/sanskar1306/yumSeek-backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=newsApp)](https://github.com/sanskar130/newsApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=ConFusion-app)](https://github.com/sanskar1306/ConFusion-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sanskar1306&repo=ConFusion-app)](https://github.com/sanskar1306/LinkFree)
 
 
 
